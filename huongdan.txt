@@ -1,0 +1,5 @@
+build 2 file range_calc va sim_calc
+
+./run_all_sim.sh [energies_kev.txt] [nEvents] 500 $de tinh msp cho alpha va proton (500 nay chi la so khong cp y nghia gi)
+
+./run_all_ranges.sh [energies_kev.txt] [nEvents] [output.csv] $de tinh range cho proton va alpha

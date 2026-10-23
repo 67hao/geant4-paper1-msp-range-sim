@@ -1,0 +1,13 @@
+job_name,particle,material,sample,csv_msp,csv_range
+proton_s1,proton,s1,S1,sim_proton_s1_msp.csv,sim_proton_s1_range.csv
+proton_s2,proton,s2,S2,sim_proton_s2_msp.csv,sim_proton_s2_range.csv
+proton_s3,proton,s3,S3,sim_proton_s3_msp.csv,sim_proton_s3_range.csv
+proton_s4,proton,s4,S4,sim_proton_s4_msp.csv,sim_proton_s4_range.csv
+proton_s5,proton,s5,S5,sim_proton_s5_msp.csv,sim_proton_s5_range.csv
+proton_s6,proton,s6,S6,sim_proton_s6_msp.csv,sim_proton_s6_range.csv
+alpha_s1,alpha,s1,S1,sim_alpha_s1_msp.csv,sim_alpha_s1_range.csv
+alpha_s2,alpha,s2,S2,sim_alpha_s2_msp.csv,sim_alpha_s2_range.csv
+alpha_s3,alpha,s3,S3,sim_alpha_s3_msp.csv,sim_alpha_s3_range.csv
+alpha_s4,alpha,s4,S4,sim_alpha_s4_msp.csv,sim_alpha_s4_range.csv
+alpha_s5,alpha,s5,S5,sim_alpha_s5_msp.csv,sim_alpha_s5_range.csv
+alpha_s6,alpha,s6,S6,sim_alpha_s6_msp.csv,sim_alpha_s6_range.csv

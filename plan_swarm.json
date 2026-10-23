@@ -1,0 +1,266 @@
+{
+  "haoidlemystic1": {
+    "1": [
+      {
+        "job_name": "proton_s1",
+        "particle": "proton",
+        "material": "s1",
+        "sample": "S1",
+        "csv_msp": "sim_proton_s1_msp.csv",
+        "csv_range": "sim_proton_s1_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "vuicho": {
+    "1": [
+      {
+        "job_name": "proton_s2",
+        "particle": "proton",
+        "material": "s2",
+        "sample": "S2",
+        "csv_msp": "sim_proton_s2_msp.csv",
+        "csv_range": "sim_proton_s2_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "haoidle4zk": {
+    "1": [
+      {
+        "job_name": "proton_s3",
+        "particle": "proton",
+        "material": "s3",
+        "sample": "S3",
+        "csv_msp": "sim_proton_s3_msp.csv",
+        "csv_range": "sim_proton_s3_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "67hao": {
+    "1": [
+      {
+        "job_name": "proton_s4",
+        "particle": "proton",
+        "material": "s4",
+        "sample": "S4",
+        "csv_msp": "sim_proton_s4_msp.csv",
+        "csv_range": "sim_proton_s4_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "idlemystich": {
+    "1": [
+      {
+        "job_name": "proton_s5",
+        "particle": "proton",
+        "material": "s5",
+        "sample": "S5",
+        "csv_msp": "sim_proton_s5_msp.csv",
+        "csv_range": "sim_proton_s5_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "CarwynDuc": {
+    "1": [
+      {
+        "job_name": "proton_s6",
+        "particle": "proton",
+        "material": "s6",
+        "sample": "S6",
+        "csv_msp": "sim_proton_s6_msp.csv",
+        "csv_range": "sim_proton_s6_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "laolaolaoma09": {
+    "1": [
+      {
+        "job_name": "alpha_s1",
+        "particle": "alpha",
+        "material": "s1",
+        "sample": "S1",
+        "csv_msp": "sim_alpha_s1_msp.csv",
+        "csv_range": "sim_alpha_s1_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "Bethwl": {
+    "1": [
+      {
+        "job_name": "alpha_s2",
+        "particle": "alpha",
+        "material": "s2",
+        "sample": "S2",
+        "csv_msp": "sim_alpha_s2_msp.csv",
+        "csv_range": "sim_alpha_s2_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "coredaohaojack": {
+    "1": [
+      {
+        "job_name": "alpha_s3",
+        "particle": "alpha",
+        "material": "s3",
+        "sample": "S3",
+        "csv_msp": "sim_alpha_s3_msp.csv",
+        "csv_range": "sim_alpha_s3_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "htvnhe": {
+    "1": [
+      {
+        "job_name": "alpha_s4",
+        "particle": "alpha",
+        "material": "s4",
+        "sample": "S4",
+        "csv_msp": "sim_alpha_s4_msp.csv",
+        "csv_range": "sim_alpha_s4_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "haohue27": {
+    "1": [
+      {
+        "job_name": "alpha_s5",
+        "particle": "alpha",
+        "material": "s5",
+        "sample": "S5",
+        "csv_msp": "sim_alpha_s5_msp.csv",
+        "csv_range": "sim_alpha_s5_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "fewhourtorelax": {
+    "1": [
+      {
+        "job_name": "alpha_s6",
+        "particle": "alpha",
+        "material": "s6",
+        "sample": "S6",
+        "csv_msp": "sim_alpha_s6_msp.csv",
+        "csv_range": "sim_alpha_s6_range.csv"
+      }
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "zotactothesun": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  }
+}
